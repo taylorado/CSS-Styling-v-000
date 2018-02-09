@@ -42,4 +42,8 @@ figcaption {
 }
 
 
-/* ID Selector (apply to one unique element per page) */
+/* ID Selector (apply to one unique element per page) starts with # */
+
+#logo {
+  background: aqua;
+}
