@@ -32,3 +32,11 @@ figcaption {
   color: #777;
   text-align: right;
 }
+
+/* class selector (applied to as many elements as you like) - starts with period*/
+
+.milk-text { /* selects elements with a class="milk-text" */
+  font: bold 2.6em 'Elsie Swash Caps', cursive;
+  color: white;
+  text-shadow: 0 2px 3px #000;
+}
