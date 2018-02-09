@@ -47,3 +47,13 @@ figcaption {
 #logo {
   background: aqua;
 }
+
+/* descendent selector */
+
+#logo h1 { /*selects h1 within element with ID=logo */
+  font-family: 'Clicker Script', cursive;
+}
+
+#logo h2 { /*selects h1 within element with ID=logo */
+  font-family: 'Elsie Swash Caps', cursive;
+}
